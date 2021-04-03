@@ -1,5 +1,6 @@
 * exclude data directory
 ./data
+./code/[99] Git.ipynb
 
 * exclude data format
 *.DSStore
