@@ -1,0 +1,5 @@
+* exclude data directory
+./data
+
+* exclude data format
+*.DSStore
